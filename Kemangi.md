@@ -8,7 +8,7 @@
 
 >**Deskripsi**
 
->     Kemangi adalah tumbuhan tahunan yang tumbuh tegak dengan 
+     Kemangi adalah tumbuhan tahunan yang tumbuh tegak dengan 
      cabang yang banyak.
      Tanaman ini berbentuk perdu yang tingginya dapat mencapai 100 cm. 
      Bunganya tersusun di tandan yang tegak. Daunnya panjang, tegak, berbentuk 
