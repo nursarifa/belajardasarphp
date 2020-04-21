@@ -6,7 +6,7 @@
 
 >Masyarakat Minangkabau menggunakan tumbuhan sejenis kemangi yang dinamakan dengan *ruku-ruku* yang di dalam Bahasa Thailand disebut sebagai *bai kra pao.* Ruku-ruku biasanya digunakan untuk memasak gulai ikan dan *asam padeh* (asam pedas).
 
->**Deskripsi**
+**Deskripsi**
 
      Kemangi adalah tumbuhan tahunan yang tumbuh tegak dengan 
      cabang yang banyak.
